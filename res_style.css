@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #242424;
+    position: relative;
+}
+
+a {
+    color: rgb(71, 194, 108);
+    background-color: #171717;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+body {
+    color: rgb(158, 158, 158);
+    text-align: center;
+}
+
+.block {
+    padding: 10px;
+    margin: 90px;
+
+}
